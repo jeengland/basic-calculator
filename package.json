@@ -1,0 +1,30 @@
+{
+  "name": "basic-calculator",
+  "version": "1.0.0",
+  "description": "a basic javascript calculator for freeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --out-dir docs",
+    "build": "parcel build index.html --out-dir docs --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeengland/basic-calculator.git"
+  },
+  "author": "jeengland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeengland/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/jeengland/basic-calculator#readme",
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "sass": "^1.19.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}

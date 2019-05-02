@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,KACI,YAAA,CACA,wBAAA,CACA,UAAA,CACA","file":"basic-calculator.19844ab8.css","sourceRoot":"..","sourcesContent":["body {\r\n    display: flex;\r\n    background-color: #2e2e2e;\r\n    color: white;\r\n    justify-content: center;\r\n}"]}
